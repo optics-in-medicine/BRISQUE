@@ -3,6 +3,7 @@ This is the blind image quality assessment program I am looking at. Looking at t
 
 A. Mittal, A. K. Moorthy and A. C. Bovik, "BRISQUE Software Release", 
   URL: http://live.ece.utexas.edu/research/quality/BRISQUE_release.zip, 2011
+
 A. Mittal, A. K. Moorthy and A. C. Bovik, "No Reference Image Quality Assessment in the 
   Spatial Domain" submitted
 
